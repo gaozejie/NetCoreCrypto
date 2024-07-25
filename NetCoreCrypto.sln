@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreCrypto", "NetCoreCrypto\NetCoreCrypto.csproj", "{7814E965-6308-4B17-B870-D1ABDAB1A745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreCryptoTests", "NetCoreCryptoTests\NetCoreCryptoTests.csproj", "{BB18690D-8035-4CFD-8BA5-ED3D63BBD0B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreCypto.Api", "NetCoreCypto.Api\NetCoreCypto.Api.csproj", "{91123C54-DAB9-4EC3-9E60-526BAC4C14E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7814E965-6308-4B17-B870-D1ABDAB1A745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7814E965-6308-4B17-B870-D1ABDAB1A745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7814E965-6308-4B17-B870-D1ABDAB1A745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7814E965-6308-4B17-B870-D1ABDAB1A745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB18690D-8035-4CFD-8BA5-ED3D63BBD0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB18690D-8035-4CFD-8BA5-ED3D63BBD0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB18690D-8035-4CFD-8BA5-ED3D63BBD0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB18690D-8035-4CFD-8BA5-ED3D63BBD0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91123C54-DAB9-4EC3-9E60-526BAC4C14E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91123C54-DAB9-4EC3-9E60-526BAC4C14E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91123C54-DAB9-4EC3-9E60-526BAC4C14E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91123C54-DAB9-4EC3-9E60-526BAC4C14E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FFC13C3-856D-40A3-96FD-CF78D6231386}
+	EndGlobalSection
+EndGlobal
